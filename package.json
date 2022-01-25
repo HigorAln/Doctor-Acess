@@ -1,0 +1,26 @@
+{
+  "name": "doutor-acesso",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@hookform/resolvers": "^2.8.3",
+    "next": "12.0.4",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-hook-form": "^7.20.1",
+    "sass": "^1.43.4",
+    "yup": "^0.32.11"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.8",
+    "@types/react": "^17.0.35",
+    "eslint": "7",
+    "eslint-config-next": "12.0.4",
+    "typescript": "^4.5.2"
+  }
+}
